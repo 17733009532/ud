@@ -12,6 +12,7 @@ public class UdApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(UdApplication.class, args);
+        System.out.println("hhh");
     }
 
 }
